@@ -1,7 +1,7 @@
 # DENGÊ ROJAVA
 *Şanoyeke Sê Perdeyan*
 
-**Nivîskar**: Ferhad Mislim
+**Nivîskar**: Ferhad Mislim <br/>
 **Mijar**: Trajediya Kurdên Rojava
 
 **LEHENG**:
