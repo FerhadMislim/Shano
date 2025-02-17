@@ -1,4 +1,5 @@
-<img scr='./urdipedia.png'/>
+
+<img src='./kurdipedia.png' width="500" height="600">
 # DENGÊ ROJAVA
 *Şanoyeke Sê Perdeyan*
 
