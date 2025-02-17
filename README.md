@@ -1,3 +1,4 @@
+<img scr='./urdipedia.png'/>
 # DENGÊ ROJAVA
 *Şanoyeke Sê Perdeyan*
 
